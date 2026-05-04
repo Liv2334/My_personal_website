@@ -30,5 +30,6 @@
     background-color: #484C71;
     display: flex;
     align-items: center;
-       width: 100%
+    justify-content: center;
+    width: 100%;
 }
