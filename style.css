@@ -25,3 +25,12 @@
   background-color: #ddd;
   color: black;
 }
+
+.o_nam_styled {
+    background-color: #484C71;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px 0;
+       width: 100%
+}
