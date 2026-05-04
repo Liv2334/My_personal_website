@@ -1,4 +1,4 @@
-.light_mode_body{
+ .light_mode_body{
     background-color: #BCC0E7;
 }
 
@@ -17,7 +17,7 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 /* Change the color of links on hover */
@@ -31,5 +31,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 50vh;
     width: 100%;
 }
