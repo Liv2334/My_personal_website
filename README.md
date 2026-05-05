@@ -12,19 +12,38 @@ Index page:
 - implement dark mode when start clicked
 
 About Page:
-- implement
+- add link to index page
+- add photo
+- add blurb
+- add star on bottom right
+- implement dark mode when clicked
 
 Contact Page:
-- implement
+- add link to index page
+- implement messaging feature
+- add star on bottom right
+- implement dark mode when clicked
 
 Resume Page:
-- implement
+- add link to index page
+- add resume
+- add timeline
+- add star on bottom right
+- implement dark mode when clicked
 
 Projects Page:
-- implement
+- add link to index page
+- create board
+- add star on bottom right
+- implement dark mode when clicked
 
 Blog Page:
-- implement
+- add link to index page
+- create a more concrete plan for layout
+- add star on bottom right
+- implement dark mode when clicked
 
 Hiking photos Page:
-- implement
+- add link to index page
+- add images
+- add information when hovered over
