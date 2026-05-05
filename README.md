@@ -5,6 +5,9 @@ My personal website
 
 # To Do as of Right Now
 
+Overall:
+- fix house button design
+
 Index page:
 - fix name formatting
 - link boot to photo page
