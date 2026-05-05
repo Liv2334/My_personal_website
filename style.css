@@ -104,3 +104,14 @@ textarea::placeholder {
   width: 400px;
   height: 120px;
 }
+
+.form_container button {
+  align-self: center;
+  background-color: #484C71;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-family: "Gotu", sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+}
