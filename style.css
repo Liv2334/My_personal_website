@@ -27,10 +27,14 @@
 }
 
 .o_nam_styled {
-  text-align: center;
-  font-size: 150px;
+    color: #484C71;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: clamp(60px, 12vw, 320px);
+    text-align: center;
 }
-
 
 
 /* HOME ICON */
