@@ -44,3 +44,26 @@
     width: 160px;
     height: auto;
 }
+
+.house {
+  position: relative;
+  width: 200px;
+  margin: 100px auto;
+}
+
+.roof {
+  width: 0;
+  height: 0;
+  border-left: 110px solid transparent;
+  border-right: 110px solid transparent;
+  border-bottom: 100px solid #FFFFFF;
+  margin-left: -10px;
+}
+.wall {
+  width: 200px;
+  height: 150px;
+  background-color: #FFFFFF;
+  position: relative;
+}
+
+
