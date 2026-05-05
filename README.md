@@ -21,7 +21,7 @@ About Page:
 - implement dark mode when clicked
 
 Contact Page:
-- implement messaging feature
+- fix layout of messaging feature
 - add star on bottom right
 - implement dark mode when clicked
 
