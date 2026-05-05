@@ -12,33 +12,28 @@ Index page:
 - implement dark mode when start clicked
 
 About Page:
-- fix nav bar
 - add photo
 - add blurb
 - add star on bottom right
 - implement dark mode when clicked
 
 Contact Page:
-- fix nav bar
 - implement messaging feature
 - add star on bottom right
 - implement dark mode when clicked
 
 Resume Page:
-- fix nav bar
 - add resume
 - add timeline
 - add star on bottom right
 - implement dark mode when clicked
 
 Projects Page:
-- fix nav bar
 - create board
 - add star on bottom right
 - implement dark mode when clicked
 
 Blog Page:
-- fix nav bar
 - create a more concrete plan for layout
 - add star on bottom right
 - implement dark mode when clicked
