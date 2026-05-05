@@ -7,6 +7,7 @@ My personal website
 
 Overall:
 - fix house button design
+- fix the size of the star
 
 Index page:
 - fix name formatting
