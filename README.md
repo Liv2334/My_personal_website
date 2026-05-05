@@ -8,12 +8,11 @@ My personal website
 Overall:
 - fix house button design
 - fix the size of the star
+- fix the nightmode colors
 
 Index page:
 - fix name formatting
 - link boot to photo page
-- add star on bottom right
-- implement dark mode when start clicked
 
 About Page:
 - add photo
