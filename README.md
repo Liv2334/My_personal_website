@@ -9,6 +9,7 @@ Overall:
 - fix house button design
 - fix the size of the star
 - fix the nightmode colors
+- if nightmode clicked, keep that format when looking at all pages
 
 Index page:
 - fix name formatting
