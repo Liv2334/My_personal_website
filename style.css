@@ -33,5 +33,6 @@
     align-items: center;
     justify-content: center;
     width: 100%;
-    font-size: 150px;
+    font-size: clamp(40px, 8vw, 120px);
+    text-align: center;
 }
