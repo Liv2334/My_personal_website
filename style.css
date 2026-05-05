@@ -130,3 +130,20 @@ textarea::placeholder {
   bottom: 40px;
   right: 40px;
 }
+
+/* DARK MODE */
+.dark_mode_body {
+  background-color: #1E2235;  /* pick your night color */
+  color: #FFFFFF;
+}
+
+/* optional: adjust navbar in dark mode */
+.dark_mode_body .topnav {
+  background-color: #2C3055;
+}
+
+/* STAR → CIRCLE */
+.circle-shape {
+  clip-path: none;
+  border-radius: 50%;
+}
