@@ -26,6 +26,13 @@
   color: black;
 }
 
+.o_nam_styled {
+  text-align: center;
+  font-size: 150px;
+}
+
+
+
 /* HOME ICON */
 .bottom_image {
   position: fixed;
