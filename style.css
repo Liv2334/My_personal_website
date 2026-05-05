@@ -66,21 +66,39 @@
   position: relative;
 }
 
+
+
 .form_container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 100px;
+  gap: 15px;
 }
 
-.form_container input {
-  width: 300px;
-  height: 50px;
-  margin: 15px 0;
+.form_container input,
+.form_container textarea {
+  font-family: 'Gotu', sans-serif;
   padding: 10px;
-  font-size: 16px;
-  background-color: #D9D9D9;
-  border: none;
-  border-radius: 8px;
-  outline: none;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+
+input::placeholder,
+textarea::placeholder {
+  color: #484C74;
+  font-family: 'Gotu', sans-serif;
+}
+
+#name {
+  width: 200px;
+}
+
+#email {
+  width: 300px;
+}
+
+#message {
+  width: 400px;
+  height: 120px;
 }
