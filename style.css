@@ -59,13 +59,11 @@
   margin-left: 0; /* remove the hack */
 }
 
-.wall {
   .wall {
   width: 140px;
   height: 75px;
   background-color: #FFFFFF;
   margin: 0 auto;
-}
 }
 
 /* FORM */
