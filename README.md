@@ -33,6 +33,8 @@ Blog Page:
 - create a more concrete plan for layout
 
 Hiking photos Page:
-- add link to index page
+- fix boot placement
+- fix text color and placement
+- fix background color
 - add images
 - add information when hovered over
