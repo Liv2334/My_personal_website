@@ -13,7 +13,7 @@ Overall:
 
 Index page:
 - fix name formatting
-- link boot to photo page
+- add plants
 
 About Page:
 - add photo
