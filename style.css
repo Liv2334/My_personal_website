@@ -47,14 +47,14 @@
 
 .house {
   position: relative;
-  width: 200px;
+  width: 180px;
 }
 
 .roof {
   width: 0;
   height: 0;
-  border-left: 110px solid transparent;
-  border-right: 110px solid transparent;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
   border-bottom: 100px solid #FFFFFF;
   margin-left: -10px;
 }
