@@ -60,9 +60,12 @@
 }
 
 .wall {
-  width: 180px;
+  .wall {
+  width: 140px;
   height: 75px;
   background-color: #FFFFFF;
+  margin: 0 auto;
+}
 }
 
 /* FORM */
