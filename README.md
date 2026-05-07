@@ -12,7 +12,6 @@ Overall:
 - if nightmode clicked, keep that format when looking at all pages
 
 Index page:
-- fix name formatting
 - add plants
 
 About Page:
@@ -33,8 +32,5 @@ Blog Page:
 - create a more concrete plan for layout
 
 Hiking photos Page:
-- fix boot placement
-- fix text color and placement
-- fix background color
 - add images
 - add information when hovered over
