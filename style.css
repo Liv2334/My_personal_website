@@ -190,6 +190,20 @@ textarea::placeholder {
   font-weight: normal;
 }
 
+
+.center_timeline{
+    color: #484C71;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: clamp(60px, 12vw, 320px);
+    text-align: center;
+    margin-top: 20vh;
+}
+
+
+
 /* BOOT IMAGE */
 .top_boot {
   width: 160px;
